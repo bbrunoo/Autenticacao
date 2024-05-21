@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4877A0-3154-488D-B556-F7C15A8D0249}|AMS4_2024.Application\\AMS4_2024.Application.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4877A0-3154-488D-B556-F7C15A8D0249}|AMS4_2024.Application\\AMS4_2024.Application.csproj|solutionrelative:ams4_2024.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|solutionrelative:ams4_2024.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|solutionrelative:ams4_2024.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B7DC07-2B89-4916-957E-DBE220BD9001}|AMS4_2024.Domain\\AMS4_2024.Domain.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B7DC07-2B89-4916-957E-DBE220BD9001}|AMS4_2024.Domain\\AMS4_2024.Domain.csproj|solutionrelative:ams4_2024.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FD22D0-2D88-4844-A0C5-05EFAF8E5ED7}|AMS4_2024.Infra.Data\\AMS4_2024.Infra.Data.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.infra.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FD22D0-2D88-4844-A0C5-05EFAF8E5ED7}|AMS4_2024.Infra.Data\\AMS4_2024.Infra.Data.csproj|solutionrelative:ams4_2024.infra.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4877A0-3154-488D-B556-F7C15A8D0249}|AMS4_2024.Application\\AMS4_2024.Application.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4877A0-3154-488D-B556-F7C15A8D0249}|AMS4_2024.Application\\AMS4_2024.Application.csproj|solutionrelative:ams4_2024.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.api\\ams4_2024.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|solutionrelative:ams4_2024.api\\ams4_2024.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|c:\\users\\bruno\\desktop\\arquiteturacamadas\\ams4_2024\\ams4_2024.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77435062-5164-4C37-9560-2AC729768895}|AMS4_2024.API\\AMS4_2024.API.csproj|solutionrelative:ams4_2024.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AMS4_2024.Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "AMS4_2024.Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AMS4_2024.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "AMS4_2024.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:13.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AMS4_2024.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\AMS4_2024.API.csproj",
+              "RelativeDocumentMoniker": "AMS4_2024.API\\AMS4_2024.API.csproj",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\AMS4_2024.API.csproj",
+              "RelativeToolTip": "AMS4_2024.API\\AMS4_2024.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T13:14:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\Program.cs",
+              "RelativeDocumentMoniker": "AMS4_2024.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\Program.cs",
+              "RelativeToolTip": "AMS4_2024.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:21:48.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AMS4_2024.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AMS4_2024.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowEoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:13:16.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AMS4_2024.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "AMS4_2024.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:09:57.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AMS4_2024.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "AMS4_2024.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:09:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AMS4_2024.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\ArquiteturaCamadas\\AMS4_2024\\AMS4_2024.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AMS4_2024.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T16:57:37.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

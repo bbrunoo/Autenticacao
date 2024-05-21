@@ -1,0 +1,16 @@
+<form (ngSubmit)="register()" #actorForm="ngForm">
+  <label><h1>Registrar</h1></label>
+  <div>
+    <label for="email">Nome:</label>
+    <input type="text" id="nome" [(ngModel)]="user.nome" name="nome" required>
+  </div>
+  <div>
+    <label for="email">Email:</label>
+    <input type="email" id="email" [(ngModel)]="user.email" name="email" required>
+  </div>
+  <div>
+    <label for="password">Senha:</label>
+    <input type="password" id="password" [(ngModel)]="user.senha" name="password" required>
+  </div>
+  <button type="submit">Register</button>
+</form>

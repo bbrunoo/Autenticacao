@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.6.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.6.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AMS4_2024.Application\AMS4_2024.Application.csproj" />
+    <ProjectReference Include="..\AMS4_2024.Domain\AMS4_2024.Domain.csproj" />
+    <ProjectReference Include="..\AMS4_2024.Infra.Data\AMS4_2024.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

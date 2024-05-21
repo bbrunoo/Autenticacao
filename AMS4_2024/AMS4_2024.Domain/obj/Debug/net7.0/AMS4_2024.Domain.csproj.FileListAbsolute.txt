@@ -1,0 +1,11 @@
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\bin\Debug\net7.0\AMS4_2024.Domain.deps.json
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\bin\Debug\net7.0\AMS4_2024.Domain.dll
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\bin\Debug\net7.0\AMS4_2024.Domain.pdb
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\AMS4_2024.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\AMS4_2024.Domain.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\AMS4_2024.Domain.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\AMS4_2024.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\AMS4_2024.Domain.dll
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\refint\AMS4_2024.Domain.dll
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\AMS4_2024.Domain.pdb
+C:\Users\Bruno\Desktop\ArquiteturaCamadas\AMS4_2024\AMS4_2024.Domain\obj\Debug\net7.0\ref\AMS4_2024.Domain.dll
