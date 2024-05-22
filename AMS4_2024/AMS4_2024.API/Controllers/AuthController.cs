@@ -26,7 +26,7 @@ namespace AMS4_2024.API.Controllers
         {
             _registerUsuario = registerUsuario;
             _usuarioRepository = usuarioRepository;
-            _secretKey = Environment.GetEnvironmentVariable("JWT_SECRET_KEY") ?? "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
+            _secretKey = Environment.GetEnvironmentVariable("JWT_SECRET_KEY") ?? "secretKey";
         }
 
         [HttpPost("register")]
